@@ -10,7 +10,7 @@ Welcome to my self-paced learning journey through essential programming and data
 - Variables, loops, conditionals, and functions
 - Object-Oriented Programming (OOP)
 - Python modules and files
-- Includes fun projects like a 
+- Includes fun projects  
 
 ### 🔹 Course 2: Intermediate Python
 - Data structures: lists, sets, dictionaries
